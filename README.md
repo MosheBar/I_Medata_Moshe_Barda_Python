@@ -12,8 +12,8 @@ This repository contains automated tests for the Medical Data API endpoints. The
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:MosheBar/I_Medata_Moshe_Barda_Python.git
+cd I_Medata_Moshe_Barda_Python
 ```
 
 2. Create and activate a virtual environment:
