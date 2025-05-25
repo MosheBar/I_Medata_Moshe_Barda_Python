@@ -1,0 +1,3 @@
+INFO:core.aws.aws_client:Initializing AWS S3 client...
+INFO:core.aws.aws_client:Testing AWS credentials by checking access to bucket: external-medate-exam-data
+INFO:core.aws.aws_client:Successfully verified bucket access

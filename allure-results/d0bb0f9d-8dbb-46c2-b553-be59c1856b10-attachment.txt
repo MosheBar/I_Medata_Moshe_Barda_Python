@@ -1,0 +1,3 @@
+[32mINFO    [0m core.aws.aws_client:aws_client.py:20 Initializing AWS S3 client...
+[32mINFO    [0m core.aws.aws_client:aws_client.py:35 Testing AWS credentials by checking access to bucket: external-medate-exam-data
+[32mINFO    [0m core.aws.aws_client:aws_client.py:38 Successfully verified bucket access

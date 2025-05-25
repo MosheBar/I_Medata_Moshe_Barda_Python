@@ -1,0 +1,1 @@
+[32mINFO    [0m httpx:_client.py:1013 HTTP Request: GET http://testserver/health "HTTP/1.1 200 OK"

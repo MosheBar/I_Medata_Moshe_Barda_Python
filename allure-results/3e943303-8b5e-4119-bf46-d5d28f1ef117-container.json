@@ -1,0 +1,1 @@
+{"uuid": "25be8ba0-d3e9-4deb-89f9-0aefd54da446", "children": ["3629d524-f615-4006-a4f4-c88111eb1045"], "befores": [{"name": "download_parquet", "status": "passed", "start": 1748170336936, "stop": 1748170336936}], "start": 1748170336936, "stop": 1748170340607}
